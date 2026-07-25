@@ -24,3 +24,6 @@ jobs:
 
       - name: Display Completion Message
         run: echo "Pipeline Executed Successfully"
+        
+      - name: Invalid Command
+       run: abcdt
