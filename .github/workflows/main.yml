@@ -26,4 +26,4 @@ jobs:
         run: echo "Pipeline Executed Successfully"
         
       - name: Invalid Command
-       run: abcdt
+       run: echo "Error Fixed"
